@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name local)(type KiCad)(uri ${KIPRJMOD}/local.pretty)(options "")(descr ""))
+  (lib (name LPAM)(type KiCad)(uri ${KIPRJMOD}/LPAM-40-01.0-X-08-X-K-TR)(options "")(descr ""))
+)

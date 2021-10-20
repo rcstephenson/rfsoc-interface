@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SAMTEC-LPAM)(type Legacy)(uri ${KIPRJMOD}/LPAM-40-01.0-X-08-X-K-TR/LPAM-40-01.0-X-08-X-K-TR.lib)(options "")(descr FMC))
+  (lib (name local)(type Legacy)(uri ${KIPRJMOD}/local.lib)(options "")(descr ""))
+  (lib (name RFSoC_Frontend_v0.1-rescue)(type Legacy)(uri ${KIPRJMOD}/LPAM-40-01.0-X-08-X-K-TR/LPAM-40-01.0-X-08-X-K-TR.lib)(options "")(descr ""))
+)
