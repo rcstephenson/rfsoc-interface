@@ -1,4 +1,4 @@
-19797497628942611
+19800791317721852
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56706,13 +56706,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LPAM
-SAMTEC_LPAM-40-01.0-X-08-X-K-TR
-
-
-0
-320
-320
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -74682,6 +74675,13 @@ Skyworks
 0
 7
 7
+RFSoC_directclocking
+boardinfo
+
+
+0
+0
+0
 RF_Antenna
 Abracon_APAES868R8060C16-T
 Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi
@@ -75123,6 +75123,20 @@ mini-circuits pl-049
 0
 36
 8
+RF_Mini-Circuits
+SOIC-6
+
+
+0
+6
+6
+RF_Mini-Circuits
+TCM2-33WX+
+
+
+0
+6
+6
 RF_Module
 Ai-Thinker-Ra-01-LoRa
 Ai Thinker Ra-01 LoRa

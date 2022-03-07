@@ -2831,7 +2831,7 @@
 
   (footprint "MINICIRCUITS:XFMR_TCM2-33WX+" (layer "F.Cu")
     (tedit 603AA730) (tstamp 00000000-0000-0000-0000-000061783261)
-    (at 103.7046 22.0468 90)
+    (at 103.704593 22.046801 90)
     (path "/00000000-0000-0000-0000-0000604c2a22")
     (attr through_hole)
     (fp_text reference "U3" (at 0.341135 -3.676595 90) (layer "F.SilkS")
