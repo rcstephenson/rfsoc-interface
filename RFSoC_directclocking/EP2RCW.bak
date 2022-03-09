@@ -145,7 +145,7 @@
     (symbol "EP2RCW+_0_1"
       (rectangle (start -12.7 -12.7) (end 13.97 12.7)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type background))
+        (fill (type none))
       )
     )
   )
