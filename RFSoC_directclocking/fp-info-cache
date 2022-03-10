@@ -1,4 +1,4 @@
-19800791317721852
+19821618652141279
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59261,6 +59261,20 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Mouser
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+Mouser
+QFN50P500X500X100-33N-D
+DG1677-2
+Integrated Circuit
+0
+33
+33
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -59464,6 +59478,13 @@ Hamamatsu SiPM
 0
 2
 2
+OptoDevice
+Kingbright_KPS-3227
+3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf
+KPS-3227 Ambient Light Photo Sensor
+0
+4
+4
 OptoDevice
 Kingbright_KPS-5130
 http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf
@@ -74675,13 +74696,6 @@ Skyworks
 0
 7
 7
-RFSoC_directclocking
-boardinfo
-
-
-0
-0
-0
 RF_Antenna
 Abracon_APAES868R8060C16-T
 Abracon RHCP ceramic patch antenna 854-882Mhz, 5dBi
@@ -75123,20 +75137,6 @@ mini-circuits pl-049
 0
 36
 8
-RF_Mini-Circuits
-SOIC-6
-
-
-0
-6
-6
-RF_Mini-Circuits
-TCM2-33WX+
-
-
-0
-6
-6
 RF_Module
 Ai-Thinker-Ra-01-LoRa
 Ai Thinker Ra-01 LoRa
