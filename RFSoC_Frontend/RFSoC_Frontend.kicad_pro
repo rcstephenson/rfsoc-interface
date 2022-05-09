@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RFSoC_Frontend_v0.1.kicad_pro",
+    "filename": "RFSoC_Frontend.kicad_pro",
     "version": 1
   },
   "net_settings": {
