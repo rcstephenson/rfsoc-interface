@@ -6,3 +6,10 @@ v1.0
 - first fabricated version of board which works on RFSoC, same rf-lines, fixed position of mountion holes. 
 - measuered I/Q data in loopback. 
 
+added differential clocking board
+
+V1.1
+- added correct schematic to fix shorted grounds (Eric and Cody)
+- updated PCB traces
+
+
